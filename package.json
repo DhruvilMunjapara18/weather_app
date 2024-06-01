@@ -1,0 +1,16 @@
+{
+  "name": "weather_application",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/app.js"
+  },
+  "author": "Dhruvil Patel",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2",
+    "hbs": "^4.2.0",
+    "nodemon": "^3.1.2"
+  }
+}
